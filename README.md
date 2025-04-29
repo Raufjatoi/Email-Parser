@@ -38,8 +38,8 @@ Simply click on the sample buttons to load these examples and see how the parser
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Raufjatoi/email-parser.git
-   cd email-parser
+   git clone https://github.com/Raufjatoi/Email-Parser.git
+   cd Email-Parser
    ```
 
 2. Install dependencies
